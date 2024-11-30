@@ -22,6 +22,6 @@ This is a frontend-only implementation, focusing on using React for building an 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/todolist-react.git
+   git clone https://github.com/NikilKumaar/todo-frontend.git
    cd todo-frontend
 
